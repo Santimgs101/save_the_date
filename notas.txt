@@ -1,0 +1,10 @@
+crear repo
+
+git init
+git remote add origin https://github.com/....
+git add .
+
+
+subir cambios
+git commit -m "subida"
+git push origin master
