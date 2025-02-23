@@ -6,5 +6,6 @@ git add .
 
 
 subir cambios
+git add .
 git commit -m "subida"
 git push origin master
